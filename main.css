@@ -1,0 +1,25 @@
+.articleDiv {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+
+#article1 {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    border: 2px solid red;
+    padding: 2%;
+    margin: 2%;
+
+
+}
+#article2 {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    border: 2px solid green;
+    padding: 2%;
+    margin: 2%;
+}
